@@ -1,0 +1,43 @@
+body {
+    background-color: #f8f9fa;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    max-width: 800px;
+    background: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+    color: #333;
+    text-align: center;
+}
+
+.alert {
+    font-size: 18px;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.table {
+    margin-top: 20px;
+}
+
+th {
+    background: #007bff;
+    color: #ffffff;
+    text-align: center;
+}
+
+td {
+    text-align: center;
+}
+
+.btn {
+    display: block;
+    width: 100%;
+    font-size: 18px;
+}

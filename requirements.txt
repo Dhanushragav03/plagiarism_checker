@@ -1,0 +1,9 @@
+Flask
+Werkzeug
+flask-sqlalchemy
+flask-wtf
+wtforms
+pdfminer.six
+numpy
+pandas
+scikit-learn
